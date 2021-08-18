@@ -1,5 +1,5 @@
 
-# [QuestDB vs. TimescaleDB](https://medium.com/@kovidrathee/questdb-vs-timescaledb-38160a361c0e)
+# [QuestDB vs. TimescaleDB](https://towardsdatascience.com/questdb-vs-timescaledb-38160a361c0e?sk=42d1c037a6dfc3786e11eb9d9f5af2ad)
 
 Use the following GitHub Gists to follow along the TSBS tutorial for running a benchmark:
 
